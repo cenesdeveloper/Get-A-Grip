@@ -1,4 +1,4 @@
-# Get-A-Grip
+# Get a Grip
 
 ## Project Description
 
