@@ -9,9 +9,7 @@ hardware = False
 QLabs = configure_environment(project_identifier, ip_address, hardware).QLabs
 arm = qarm(project_identifier,ip_address,QLabs,hardware)
 potentiometer = potentiometer_interface()
-#--------------------------------------------------------------------------------
-# STUDENT CODE BEGINS
-#---------------------------------------------------------------------------------
+
 import random #Import random library
 
 def spawn_container(id):
@@ -155,9 +153,7 @@ def main():
 main()
     
 
-#---------------------------------------------------------------------------------
-# STUDENT CODE ENDS
-#---------------------------------------------------------------------------------
+
     
 
     
